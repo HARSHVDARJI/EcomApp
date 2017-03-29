@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/harsh/.android/build-cache/a5d1496820c84a921d944abe4e6d7eb4e981bbd7/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/harsh/.android/build-cache/a5d1496820c84a921d944abe4e6d7eb4e981bbd7/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

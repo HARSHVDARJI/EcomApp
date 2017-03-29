@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_dev.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_dev.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_shop_categories.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_shop_categories.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_account_reset_password.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_account_reset_password.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_about_itemslist.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_about_itemslist.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_account_forgot_password.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_account_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/activity_video.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/activity_video.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/home/harsh/.android/build-cache/a5d1496820c84a921d944abe4e6d7eb4e981bbd7/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_policy_itemdetails.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_policy_itemdetails.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_policy_itemdetails.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_policy_itemdetails.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_shop_itemslist.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_shop_itemslist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/activity_zoomimage.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/activity_zoomimage.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_messages.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_alert_itemdetails.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_alert_itemdetails.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_orderdetails.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_orderdetails.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/home/harsh/.android/build-cache/b02800fa202c104605ce5a30ed52f4f0dc0b54fe/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_account_login.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_account_login.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_payment_checkout.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_payment_checkout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_orderslist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_orderslist.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_shipping_location.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_shipping_location.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/harsh/.android/build-cache/73718eb477a9506362c8582e1eb22d06d1325438/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_payment_gateway.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_payment_gateway.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_payment_cart.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_payment_cart.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_shop_itemslist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_shop_itemslist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/home/harsh/.android/build-cache/a5d1496820c84a921d944abe4e6d7eb4e981bbd7/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_shop_itemdetails.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_shop_itemdetails.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/home/harsh/.android/build-cache/b02800fa202c104605ce5a30ed52f4f0dc0b54fe/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_shipping_info.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_shipping_info.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/activity_zoomimage.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/activity_zoomimage.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_account_login.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_account_login.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/home/harsh/.android/build-cache/a5d1496820c84a921d944abe4e6d7eb4e981bbd7/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_orderslist.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_orderslist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_loading.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_loading.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/home/harsh/.android/build-cache/b02800fa202c104605ce5a30ed52f4f0dc0b54fe/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/home/harsh/.android/build-cache/a5d1496820c84a921d944abe4e6d7eb4e981bbd7/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_alert_itemdetails.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_alert_itemdetails.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_about_itemdetails.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_about_itemdetails.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/harsh/.android/build-cache/73718eb477a9506362c8582e1eb22d06d1325438/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/activity_video.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/activity_video.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_payment_cart.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_payment_cart.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_messages.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/home/harsh/.android/build-cache/a5d1496820c84a921d944abe4e6d7eb4e981bbd7/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/harsh/.android/build-cache/73718eb477a9506362c8582e1eb22d06d1325438/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_account_create.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_account_create.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_payment_gateway.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_payment_gateway.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/harsh/.android/build-cache/73718eb477a9506362c8582e1eb22d06d1325438/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_orderdetails.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_orderdetails.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_dev.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_dev.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_shop_itemdetails.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_shop_itemdetails.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_about_itemdetails.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_about_itemdetails.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_account_reset_password.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_account_reset_password.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_account_detectlogin.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_account_detectlogin.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_about_itemslist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_about_itemslist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_shipping_info.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_shipping_info.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_payment_checkout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_payment_checkout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/dialog_yes_no.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/dialog_yes_no.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_menu.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/home/harsh/.android/build-cache/a5d1496820c84a921d944abe4e6d7eb4e981bbd7/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_payment_confirm.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_payment_confirm.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_account_detectlogin.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_account_detectlogin.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_menu.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_policy_itemslist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_policy_itemslist.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_account_create.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_account_create.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/home/harsh/.android/build-cache/b02800fa202c104605ce5a30ed52f4f0dc0b54fe/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/home/harsh/.android/build-cache/b02800fa202c104605ce5a30ed52f4f0dc0b54fe/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_policy_itemslist.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_policy_itemslist.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_shop_categories.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_shop_categories.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_shipping_location.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_shipping_location.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_loading.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_loading.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_account_forgot_password.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_account_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/fragment_alert_itemslist.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/fragment_alert_itemslist.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/dialog_yes_no.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/src/main/res/layout/dialog_yes_no.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_payment_confirm.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_payment_confirm.xml"
+    },
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/fragment_alert_itemslist.xml",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/layout/fragment_alert_itemslist.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/home/harsh/.android/build-cache/b02800fa202c104605ce5a30ed52f4f0dc0b54fe/output/res/layout/cast_intro_overlay.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/hrushim/StudioProjects/Zoncon_Ecommerce_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/harsh/.android/build-cache/07e9ea05aee6eb71492faff92f436751a6f4fb39/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

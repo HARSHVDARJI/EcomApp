@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/cart.png",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/drawable-xhdpi/cart.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/camera.png",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/drawable-xhdpi/camera.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_title.png",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/drawable-xhdpi/icon_title.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/menu_dropdown.9.png",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/drawable-xhdpi/menu_dropdown.9.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/mego_logo.png",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/drawable-xhdpi/mego_logo.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/menu.png",
+        "source": "/home/harsh/AndroidStudioProjects/Ecommerce-Retronight-Android-master/app/src/main/res/drawable-xhdpi/menu.png"
+    }
+]
